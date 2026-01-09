@@ -57,18 +57,7 @@ To run the code in this repository locally, follow these steps:
 - **Visualization:** Uses Seaborn and Matplotlib for visualizing distributions, scatter plots, box plots, and heatmaps.
 - **Geographic Mapping:** Integrates Folium for creating interactive maps with property price heatmaps and markers.
 
-## Visualization
 
-### Examples of Visualizations:
-
-- **Distribution of Property Prices:**
-  ![Distribution of Property Prices](images/property_price_distribution.png)
-
-- **Scatter Plot: Property Size vs. Price**
-  ![Scatter Plot: Property Size vs. Price](images/property_size_vs_price.png)
-
-- **Geographic Heatmap of Property Prices in Dubai**
-  ![Geographic Heatmap of Property Prices](images/property_price_heatmap.png)
 
 ## Contributing
 
