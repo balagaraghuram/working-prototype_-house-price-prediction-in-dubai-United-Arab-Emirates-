@@ -1,4 +1,10 @@
 # Property Data Analysis and Visualization in Dubai
+View working prototype with architecture and working code 
+
+https://uae-real-estate-ml-platform-2023.vercel.app/
+
+
+
 
 This repository contains code for analyzing and visualizing property data in Dubai using Python. It includes exploratory data analysis (EDA), descriptive statistics, visualizations, and geographic mapping using libraries such as Pandas, NumPy, Seaborn, Matplotlib, Folium, and Geopy.
 
